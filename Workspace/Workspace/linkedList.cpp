@@ -126,7 +126,7 @@ Node* join(Node*& list1, Node* list2) {
     last(list1)->next = list2;
     return list1;
 }
-
+/*
 int main() {
     Node* head = nullptr;
     head = new Node(8, nullptr);
@@ -186,3 +186,4 @@ int main() {
     lastp = last(head);
     assert(lastp->data == 8);
 }
+*/

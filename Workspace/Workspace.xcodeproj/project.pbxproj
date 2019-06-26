@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		7C33241122C14FFE00A0BC78 /* map.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7C33241022C14FFE00A0BC78 /* map.cpp */; };
 		7C33241422C151EC00A0BC78 /* linkedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7C33241222C151EC00A0BC78 /* linkedList.cpp */; };
+		7C33243122C30B8A00A0BC78 /* vector.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7C33243022C30B8A00A0BC78 /* vector.cpp */; };
 		7C870D5B22A96174009E8A76 /* warrior.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7C870D5A22A96174009E8A76 /* warrior.cpp */; };
 		7CB10DF822BBE54000F50EB1 /* stack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CB10DF722BBE54000F50EB1 /* stack.cpp */; };
 		7CB10DFB22BBE8E500F50EB1 /* queue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CB10DF922BBE8E500F50EB1 /* queue.cpp */; };
@@ -29,6 +30,7 @@
 /* Begin PBXFileReference section */
 		7C33241022C14FFE00A0BC78 /* map.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = map.cpp; sourceTree = "<group>"; };
 		7C33241222C151EC00A0BC78 /* linkedList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = linkedList.cpp; sourceTree = "<group>"; };
+		7C33243022C30B8A00A0BC78 /* vector.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = vector.cpp; sourceTree = "<group>"; };
 		7C870D5722A96174009E8A76 /* Workspace */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Workspace; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C870D5A22A96174009E8A76 /* warrior.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = warrior.cpp; sourceTree = "<group>"; };
 		7CB10DF722BBE54000F50EB1 /* stack.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stack.cpp; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 			children = (
 				7C870D5A22A96174009E8A76 /* warrior.cpp */,
 				7CB10DF722BBE54000F50EB1 /* stack.cpp */,
+				7C33243022C30B8A00A0BC78 /* vector.cpp */,
 				7CB10DF922BBE8E500F50EB1 /* queue.cpp */,
 				7C33241022C14FFE00A0BC78 /* map.cpp */,
 				7C33241222C151EC00A0BC78 /* linkedList.cpp */,
@@ -132,6 +135,7 @@
 			files = (
 				7CB10DF822BBE54000F50EB1 /* stack.cpp in Sources */,
 				7C870D5B22A96174009E8A76 /* warrior.cpp in Sources */,
+				7C33243122C30B8A00A0BC78 /* vector.cpp in Sources */,
 				7C33241422C151EC00A0BC78 /* linkedList.cpp in Sources */,
 				7C33241122C14FFE00A0BC78 /* map.cpp in Sources */,
 				7CB10DFB22BBE8E500F50EB1 /* queue.cpp in Sources */,
